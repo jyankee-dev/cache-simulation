@@ -10,10 +10,15 @@ public class CacheSimulation
     }
     
     // your class and other methods definition starts here
-    private static int[][] cache = new int[4][8]
-	private static int[] TAG = new int[4]
+    private static int[][] cache = new int[4][8];
+	private static int[] TAG = new int[4];
     
-	public static void 
+	public static void LRU () {
+		
+	}
+	public static void LFU () {
+
+	}
 
     public static void main(String[] args) {
 		RAM_INIT();
