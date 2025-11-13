@@ -1,0 +1,23 @@
+{
+  "name": "cache-simulation",
+  "version": "1.0.0",
+  "description": "Final Project - JY/Comp Org & Architecture II",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "cache-simulation"
+  },
+  "type": "module",
+  "keywords": [
+    "cache",
+    "simulation",
+    "ram",
+    "memory",
+    "high-level"
+  ],
+  "author": "Jared",
+  "license": "ISC"
+}
